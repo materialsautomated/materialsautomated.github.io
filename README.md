@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Materials,  Automated!
 
-You can use the [editor on GitHub](https://github.com/materialsautomated/materialsautomated.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Materials, Automated! is hosted by PARADIM PI and Johns Hopkins Professor Tyrel McQueen. Our vision is to automate repetitive data analysis workflows for anyone working with materials data. If you find yourself spending a lot of time doing the same thing with your data and can provide sample inputs and outputs, Professor McQueen will provide a coding session to produce Python code in a Jupyter notebook to automate the process. Coding will be done live and broadcast over Zoom during "speed writing" sessions on Tuesday afternoons. Following the lessons live, or watching the recording later, lets anyone follow *how* this kind of work is done. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These remote sessions are open to anyone around the world and all the tools will be available right here through the Materials, Automated site. Think of it as a materials data podcast, but with coding instead of just talk. 
 
-### Markdown
+The eventual vision is for anyone in the world to submit workflow requests and get a tool in return, on the condition the tool and representative sample data are made available here and to the entire materials community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Did we mention that it's free and openly available?  
 
-```markdown
-Syntax highlighted code block
+We still have a lot to work out, like: how are we going to let people make requests for the coding of tools, will there be live discussion during the speed coding or is it more efficient to let Tyrel just go about the job and describe what he's doing without too many interuptions, where can we organize asynchronous discussions after the session? 
 
-# Header 1
-## Header 2
-### Header 3
+### Sessions
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/materialsautomated/materialsautomated.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Curie-Weiss analysis of magnetization data. 
+  * Mar 24, 2020 02:30 PM Eastern Time
+  * Zoom: https://wse.zoom.us/j/480030389
