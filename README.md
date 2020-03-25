@@ -13,5 +13,4 @@ We still have a lot to work out, like: how are we going to let people make reque
 ### Sessions
 
 1. Curie-Weiss analysis of magnetization data. 
-  * Mar 24, 2020 02:30 PM Eastern Time
-  * {% include MaterialsAutomated0Video.html %}
+  {% include MaterialsAutomated0Video.html %}
