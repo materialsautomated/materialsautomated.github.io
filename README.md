@@ -12,5 +12,7 @@ We still have a lot to work out, like: how are we going to let people make reque
 
 ### Sessions
 
-1. Curie-Weiss analysis of magnetization data. 
-  {% include MaterialsAutomated0Video.html %}
+1. [Curie-Weiss analysis of magnetization data](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated0-CurieWeissAnalysis).
+
+   {% include MaterialsAutomated0Video.html %}
+
