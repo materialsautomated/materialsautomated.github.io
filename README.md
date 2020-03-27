@@ -15,7 +15,3 @@ We still have a lot to work out, like: how are we going to let people make reque
 1. [Curie-Weiss analysis of magnetization data](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated0-CurieWeissAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated0-CurieWeissAnalysis%2FMaterialsAutomated0.ipynb)
 
    {% include MaterialsAutomated0Video.html %}
-
-____________
-
-Created by [David Elbert](https://github.com/davidelbert)
