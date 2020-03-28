@@ -1,0 +1,14 @@
+div.video-embed {
+    position: relative;
+    overflow: hidden;
+    /* must add: padding-bottom: XX% as extra style to each element.
+     * With XX calculated from video aspect ratio as h/w
+     */
+}
+
+iframe.video-embed {
+    border: 0;
+    left: 0;
+    position: absolute; 
+    width: 100%;
+}
