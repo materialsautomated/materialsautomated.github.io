@@ -16,7 +16,7 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated0Video.html %}
 
-2. [Automatic Summation and Related Parsing of Electric Structure Code Output](https://github.com/materialsautomated/materialsautomated.github.io/issues/2)
+2. [Automatic Summation and Related Parsing of Electronic Structure Code Output](https://github.com/materialsautomated/materialsautomated.github.io/issues/2)
 
    - Tuesday, March 31st, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
