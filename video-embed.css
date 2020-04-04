@@ -4,6 +4,8 @@ div.video-embed {
     /* must add: padding-bottom: XX% as extra style to each element.
      * With XX calculated from video aspect ratio as h/w
      */
+    height: 0;
+    max-width: 100%;
 }
 
 iframe.video-embed {
@@ -11,4 +13,5 @@ iframe.video-embed {
     left: 0;
     position: absolute; 
     width: 100%;
+    height: 100%;
 }
