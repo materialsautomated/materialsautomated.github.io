@@ -8,6 +8,8 @@ The eventual vision is for anyone in the world to submit workflow requests and g
 
 Did we mention that it's free and openly available?  
 
+Have a tool to share with the materials community? Have an enhancement to an existing tool? Submit a [pull request](https://github.com/materialsautomated/materialsautomated.github.io/pulls) to have it included.
+
 We still have a lot to work out, like: will there be live discussion during the speed coding or is it more efficient to let Prof. McQueen just go about the job and describe what he's doing without too many interuptions, where can we organize asynchronous discussions after the session? 
 
 ### Sessions
@@ -20,7 +22,7 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated1Video.html %}
 
-3. TBD
+3. [Automatic Analysis of Phonon Contributions to Specific Heat](https://github.com/materialsautomated/materialsautomated.github.io/issues/5)
 
    - Tuesday, April 7th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
