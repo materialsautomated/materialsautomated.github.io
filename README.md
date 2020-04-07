@@ -22,7 +22,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated1Video.html %}
 
-3. [Automatic Analysis of Phonon Contributions to Specific Heat](https://github.com/materialsautomated/materialsautomated.github.io/issues/5)
+3. [Automatic Analysis of Phonon Contributions to Specific Heat](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated2-CpPhononAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated2-CpPhononAnalysis%2FMaterialsAutomated2.ipynb)
 
-   - Tuesday, April 7th, 2:30 PM eastern time
+   {% include MaterialsAutomated2Video.html %}
+
+4. TBD
+   - Tuesday, April 14th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
