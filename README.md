@@ -26,6 +26,6 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated2Video.html %}
 
-4. TBD
+4. [Testing Models of Electrical Conductivity/Resistivity](https://github.com/materialsautomated/materialsautomated.github.io/issues/10)
    - Tuesday, April 14th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
