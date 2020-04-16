@@ -26,6 +26,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated2Video.html %}
 
-4. [Testing Models of Electrical Conductivity/Resistivity](https://github.com/materialsautomated/materialsautomated.github.io/issues/10)
-   - Tuesday, April 14th, 2:30 PM eastern time
+4. [Testing Models of Electrical Conductivity/Resistivity](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated3-RTAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated3-RTAnalysis%2FMaterialsAutomated3.ipynb)
+
+   {% include MaterialsAutomated3Video.html %}
+
+5. TBD
+   - Tuesday, April 21st, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>

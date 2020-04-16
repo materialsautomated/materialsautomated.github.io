@@ -2,7 +2,7 @@ div.video-embed {
     position: relative;
     overflow: hidden;
     /* must add: padding-bottom: XX% as extra style to each element.
-     * With XX calculated from video aspect ratio as h/w
+     * With XX calculated from video aspect ratio as h/w/frac width
      */
     height: 0;
     max-width: 100%;
