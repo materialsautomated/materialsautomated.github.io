@@ -16,19 +16,19 @@ We still have a lot to work out, like: will there be live discussion during the 
 
 1. [Curie-Weiss analysis of magnetization data](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated0-CurieWeissAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated0-CurieWeissAnalysis%2FMaterialsAutomated0.ipynb)
 
-   {% include MaterialsAutomated0Video.html %}  
+   {% include MaterialsAutomated0Video.html %}
 
 2. [Automatic Summation and Related Parsing of Electronic Structure Code Output](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated1-ElkDOSSumming). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated1-ElkDOSSumming%2FMaterialsAutomated1.ipynb)
 
-   {% include MaterialsAutomated1Video.html %}  
+   {% include MaterialsAutomated1Video.html %}
 
 3. [Automatic Analysis of Phonon Contributions to Specific Heat](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated2-CpPhononAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated2-CpPhononAnalysis%2FMaterialsAutomated2.ipynb)
 
-   {% include MaterialsAutomated2Video.html %}  
+   {% include MaterialsAutomated2Video.html %}
 
 4. [Testing Models of Electrical Conductivity/Resistivity](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated3-RTAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated3-RTAnalysis%2FMaterialsAutomated3.ipynb)
 
-   {% include MaterialsAutomated3Video.html %}  
+   {% include MaterialsAutomated3Video.html %}
 
 5. TBD
    - Tuesday, April 21st, 2:30 PM eastern time
