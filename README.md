@@ -30,6 +30,6 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated3Video.html %}
 
-5. TBD
+5. [Automated Simulation of Diffraction Patterns](https://github.com/materialsautomated/materialsautomated.github.io/issues/16)
    - Tuesday, April 21st, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
