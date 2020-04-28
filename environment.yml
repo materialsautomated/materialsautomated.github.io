@@ -8,3 +8,7 @@ dependencies:
   - dill
   - pandas
   - bokeh
+  - ase
+  - ase-notebook
+  - pythreejs
+
