@@ -30,6 +30,8 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated3Video.html %}
 
-5. [Automated Simulation of Diffraction Patterns](https://github.com/materialsautomated/materialsautomated.github.io/issues/16)
-   - Tuesday, April 21st, 2:30 PM eastern time
+5. [Running an External Program: Simulating Diffraction with DIFFaX](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated4-DIFFaXPython). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated4-DIFFaXPython%2FMaterialsAutomated4.ipynb)
+
+6. [Automatic Fitting of Faulted Crystal Structures](https://github.com/materialsautomated/materialsautomated.github.io/issues/15)
+   - Tuesday, April 28th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
