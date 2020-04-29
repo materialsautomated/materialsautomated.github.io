@@ -1,0 +1,66 @@
+data_Nb3Cl8_300K_publ
+
+_chemical_formula_sum 'Nb3 Cl8'
+_chemical_name_common 'Triniobium Octachloride'
+_chemical_name_systematic 'Triniobium Octachloride'
+_chemical_formula_weight 562.34 
+_cell_formula_units_Z 4
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_space_group_name_Hall '-P 3 2"'
+_diffrn_radiation_type                 x-ray
+_diffrn_radiation_wavelength           0.413682
+_diffrn_radiation_wavelength_details   'synchrotron x-ray, 11-BM, Advanced Photon Source'
+_diffrn_ambient_temperature 300
+_publ_contact_author_name 'Tyrel M. McQueen'
+_publ_contact_author_address 'Dept. of Chemistry, Johns Hopkins University'
+_publ_contact_author_email 'mcqueen@jhu.edu'
+
+loop_
+_publ_author_name
+'Sheckelton, J.P.'
+'Plumb, K.W.'
+'Trump, B.A.'
+'Broholm, C.L.'
+'McQueen, T.M.'
+_journal_name_full 'Inorganic Chemistry Frontiers'
+_journal_year 2017
+_journal_volume 4
+_journal_page_first 481
+
+_cell_length_a                         6.74566(3)
+_cell_length_b                         6.74566(3)
+_cell_length_c                         12.28056(7)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      120
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-y, x-y, z'
+   'y, -x+y, -z'
+   '-x+y, -x, z'
+   'x-y, x, -z'
+   'y, x, -z'
+   '-y, -x, z'
+   'x-y, -y, -z'
+   '-x+y, y, z'
+   '-x, -x+y, -z'
+   'x, x-y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Nb1        1.0     0.52763(2)    0.05525(5)    0.24577(5)   Uiso  0.004730 Nb
+   Cl1        1.0     0.666667      0.333333      0.0978(2)    Uiso  0.004500 Cl
+   Cl2        1.0     0.333333      0.666667      0.3555(2)    Uiso  0.008500 Cl
+   Cl3        1.0     0.6696(2)    -0.16520(10)   0.13500(10)  Uiso  0.006900 Cl
+   Cl4        1.0     0.3374(2)     0.16870(10)   0.38350(10)  Uiso  0.010300 Cl
