@@ -36,6 +36,8 @@ We still have a lot to work out, like: will there be live discussion during the 
 
 6. [Automatic Fitting of Faulted Crystal Structures](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated5-DIFFaXRefine). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated5-DIFFaXRefine%2FMaterialsAutomated5.ipynb)
 
+   {% include MaterialsAutomated5Video.html %}
+
 7. TBD
    - Tuesday, May 5th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
