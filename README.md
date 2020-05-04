@@ -38,6 +38,6 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated5Video.html %}
 
-7. TBD
+7. [Automatic Presentation and Comparison of X-Ray Data](https://github.com/materialsautomated/materialsautomated.github.io/issues/14)
    - Tuesday, May 5th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
