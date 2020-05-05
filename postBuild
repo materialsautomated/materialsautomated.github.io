@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Get GSAS II and build binary components
+cd /tmp
+wget -m -np https://subversion.xray.aps.anl.gov/pyGSAS/trunk/
+mv /tmp/subversion.xray.aps.anl.gov/pyGSAS/trunk ~/GSASII
+cd ~/GSASII/fsource
+scons

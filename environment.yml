@@ -11,4 +11,5 @@ dependencies:
   - ase
   - ase-notebook
   - pythreejs
+  - scons
 
