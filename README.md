@@ -38,6 +38,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated5Video.html %}
 
-7. [Automatic Presentation and Comparison of X-Ray Data](https://github.com/materialsautomated/materialsautomated.github.io/issues/14)
-   - Tuesday, May 5th, 2:30 PM eastern time
+7. [Automatic Presentation and Comparison of X-Ray Data](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated6-AutoXRD1). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated6-AutoXRD1%2FMaterialsAutomated6.ipynb)
+
+   {% include MaterialsAutomated6Video.html %}
+
+8. TBD
+   - Tuesday, May 12th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
