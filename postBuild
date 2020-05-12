@@ -1,4 +1,6 @@
 #!/bin/bash
+# Install LaueTools without deps (no WX)
+pip install --no-deps LaueTools
 
 # Get GSAS II and build binary components
 cd /tmp

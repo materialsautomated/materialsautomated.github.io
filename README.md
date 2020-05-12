@@ -42,6 +42,8 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated6Video.html %}
 
-8. [Laue Diffraction Overlays and Simulations](https://github.com/materialsautomated/materialsautomated.github.io/issues/9)
-   - Tuesday, May 12th, 2:30 PM eastern time
+8. [Laue Diffraction Overlays and Simulations](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated7-LaueOverlay). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated7-LaueOverlay%2FMaterialsAutomated7.ipynb)
+
+9. TBD
+   - Tuesday, May 19th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
