@@ -1,3 +1,5 @@
 libgfortran5
 gfortran
+libboost-all-dev
+swig
 
