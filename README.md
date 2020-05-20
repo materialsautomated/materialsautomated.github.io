@@ -46,6 +46,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated7Video.html %}
 
-9. [Data Transformations: Part 1](https://github.com/materialsautomated/materialsautomated.github.io/issues/6)
-   - Tuesday, May 19th, 2:30 PM eastern time
+9. [Data Transformations: Part 1](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated8-DataTransform1) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated8-DataTransform1%2FMaterialsAutomated8.ipynb)
+
+   {% include MaterialsAutomated8Video.html %}
+
+10. TBD
+   - Tuesday, June 2nd, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
