@@ -50,10 +50,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated8Video.html %}
 
-10. [Micro-CT Automated Reconstruction/Handling](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated9-uCT)
+1. [Micro-CT Automated Reconstruction/Handling](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated9-uCT)
 
    {% include MaterialsAutomated9Video.html %}
 
-11. TBD
+2. TBD
    - Tuesday, June 9th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
