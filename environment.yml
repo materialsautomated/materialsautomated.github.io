@@ -12,4 +12,7 @@ dependencies:
   - ase-notebook
   - pythreejs
   - scons
+  - tomopy
+  - dxchange
+  - ipyvolume
 
