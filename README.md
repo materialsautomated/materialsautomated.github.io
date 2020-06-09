@@ -55,5 +55,5 @@ We still have a lot to work out, like: will there be live discussion during the 
    {% include MaterialsAutomated9Video.html %}
 
 2. TBD
-   - Tuesday, June 9th, 2:30 PM eastern time
+   - Tuesday, June 23rd, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
