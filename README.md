@@ -54,6 +54,6 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated9Video.html %}
 
-2. TBD
+2. [Automated COHP Analysis](https://github.com/materialsautomated/materialsautomated.github.io/issues/17)
    - Tuesday, June 30th, 2:30 PM eastern time
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
