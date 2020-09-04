@@ -1,0 +1,8 @@
+To optimize repository performance, the large input files for this example are not stored directly in github. 
+
+They can be obtained by doing:
+
+curl -L https://www.materialsautomated.com/MaterialsAutomated9-uCT-Input.zip > MaterialsAutomated9-uCT-Input.zip
+unzip MaterialsAutomated9-uCT-Input.zip
+
+(prefix each line with ! if running these commands within a Jupyter notebook)
