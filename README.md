@@ -54,8 +54,10 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated9Video.html %}
 
-2. [Automated COHP Analysis](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated10-COHP)
+2. [Automated COHP Analysis](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated10-COHP) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated10-COHP%2FMaterialsAutomated10.ipynb)
 
-3. [TBD](https://github.com/materialsautomated/materialsautomated.github.io/issues)
+   {% include MaterialsAutomated10Video.html %}
+
+3. [Automating RHEED Intensity Fitting](https://github.com/materialsautomated/materialsautomated.github.io/issues/19)
    - TBD
    - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
