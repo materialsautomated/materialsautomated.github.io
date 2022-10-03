@@ -58,6 +58,7 @@ We still have a lot to work out, like: will there be live discussion during the 
 
    {% include MaterialsAutomated10Video.html %}
 
-3. [Automating RHEED Intensity Fitting](https://github.com/materialsautomated/materialsautomated.github.io/issues/19)
-   - TBD
-   - Zoom Meeting ID: <a href="https://wse.zoom.us/j/676837898">676-837-898</a>
+3. [Simple Williamson-Hall Analysis](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated11-WilliamsonHallSimple) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated11-WilliamsonHallSimple%2FMaterialsAutomated11.ipynb)
+
+4. [Hyperspectral Band Gap Determination](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated12-HyperspectralBandGapFitting) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated12-HyperspectralBandGapFitting%2FMaterialsAutomated12.ipynb)
+
