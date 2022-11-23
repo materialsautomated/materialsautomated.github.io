@@ -62,3 +62,5 @@ We still have a lot to work out, like: will there be live discussion during the 
 
 4. [Hyperspectral Band Gap Determination](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated12-HyperspectralBandGapFitting) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated12-HyperspectralBandGapFitting%2FMaterialsAutomated12.ipynb)
 
+5. [Magnetization Interpolation](https://github.com/materialsautomated/materialsautomated.github.io/blob/master/MaterialsAutomated13-InterpolatingMagnetization) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated13-InterpolatingMagnetization%2FMaterialsAutomated13-InterpolatingMagnetization.ipynb)
+

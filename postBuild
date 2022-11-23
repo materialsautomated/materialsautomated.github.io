@@ -2,6 +2,9 @@
 # Install xylib-py
 pip install xylib-py
 
+# Install scikits.datasmooth
+pip install scikits.datasmooth
+
 # Install LaueTools without deps (no WX)
 pip install --no-deps LaueTools
 
