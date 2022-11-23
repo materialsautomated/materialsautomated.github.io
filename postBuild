@@ -2,9 +2,6 @@
 # Install xylib-py
 pip install xylib-py
 
-# Install scikits.datasmooth
-pip install scikits.datasmooth
-
 # Install LaueTools without deps (no WX)
 pip install --no-deps LaueTools
 
@@ -14,3 +11,9 @@ wget -m -np https://subversion.xray.aps.anl.gov/pyGSAS/trunk/
 mv /tmp/subversion.xray.aps.anl.gov/pyGSAS/trunk ~/GSASII
 cd ~/GSASII/fsource
 scons
+
+# Install scikits.datasmooth
+cd /tmp
+git clone https://github.com/jjstickel/scikit-datasmooth.git
+cd scikit-datasmooth
+python setup.py install
